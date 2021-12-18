@@ -7,3 +7,5 @@ Just like the repository name,this is only a simple foot IK implementation which
 实际项目可以使用 [Power IK](https://www.unrealengine.com/marketplace/en-US/product/power-ik) 或UE5 [基于全身位置的IK](https://docs.unrealengine.com/5.0/zh-CN/AnimationFeatures/PBIK/)。
 
 Actual project can use [Power IK](https://www.unrealengine.com/marketplace/en-US/product/power-ik) or UE5 [Full Body IK](https://docs.unrealengine.com/5.0/en-US/AnimationFeatures/PBIK/).
+
+![simple_IK](IK.gif)
